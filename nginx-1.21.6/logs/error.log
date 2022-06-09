@@ -1,0 +1,26 @@
+2022/06/09 14:24:32 [error] 17316#2684: *1 CreateFile() "C:\Users\diego\OneDrive\Documentos\Coderhouse\Coderhouse-20645\Clase 30\nginx-1.21.6/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2022/06/09 14:37:44 [error] 17316#2684: *3 CreateFile() "C:\Users\diego\OneDrive\Documentos\Coderhouse\Coderhouse-20645\Clase 30\nginx-1.21.6/html/5d0x.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /5d0x.html HTTP/1.1", host: "localhost"
+2022/06/09 14:54:28 [notice] 11728#8032: signal process started
+2022/06/09 14:59:14 [notice] 18156#12276: signal process started
+2022/06/09 15:02:14 [notice] 13064#276: signal process started
+2022/06/09 15:03:08 [notice] 11616#7468: signal process started
+2022/06/09 15:03:29 [notice] 12720#15840: signal process started
+2022/06/09 15:03:29 [error] 12720#15840: CreateFile() "C:\Users\diego\OneDrive\Documentos\Coderhouse\Coderhouse-20645\Clase 30\nginx-1.21.6/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/06/09 15:07:52 [error] 17076#6416: *3 CreateFile() "C:\Users\diego\OneDrive\Documentos\Coderhouse\Coderhouse-20645\Clase 30\nginx-1.21.6/html/styles.css" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /styles.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2022/06/09 15:11:05 [error] 17076#6416: *7 CreateFile() "C:\Users\diego\OneDrive\Documentos\Coderhouse\Coderhouse-20645\Clase 30\nginx-1.21.6/html/perro.jpg" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /perro.jpg HTTP/1.1", host: "localhost:8080"
+2022/06/09 15:11:14 [error] 17076#6416: *7 CreateFile() "C:\Users\diego\OneDrive\Documentos\Coderhouse\Coderhouse-20645\Clase 30\nginx-1.21.6/html/public/perro.jpg" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /public/perro.jpg HTTP/1.1", host: "localhost:8080"
+2022/06/09 17:37:09 [notice] 8648#11676: signal process started
+2022/06/09 17:51:29 [emerg] 7228#19468: unexpected "}" in C:\Users\diego\OneDrive\Documentos\Coderhouse\Coderhouse-20645\Clase 30\reverse-proxy-node\nginx-1.21.6/conf/nginx.conf:20
+2022/06/09 17:53:42 [emerg] 14096#3408: unexpected "}" in C:\Users\diego\OneDrive\Documentos\Coderhouse\Coderhouse-20645\Clase 30\reverse-proxy-node\nginx-1.21.6/conf/nginx.conf:20
+2022/06/09 17:53:51 [emerg] 15272#19100: unexpected "}" in C:\Users\diego\OneDrive\Documentos\Coderhouse\Coderhouse-20645\Clase 30\reverse-proxy-node\nginx-1.21.6/conf/nginx.conf:20
+2022/06/09 17:54:30 [emerg] 21772#9080: unexpected "}" in C:\Users\diego\OneDrive\Documentos\Coderhouse\Coderhouse-20645\Clase 30\reverse-proxy-node\nginx-1.21.6/conf/nginx.conf:20
+2022/06/09 17:54:48 [emerg] 20212#12040: unexpected "}" in C:\Users\diego\OneDrive\Documentos\Coderhouse\Coderhouse-20645\Clase 30\reverse-proxy-node\nginx-1.21.6/conf/nginx.conf:20
+2022/06/09 17:55:05 [emerg] 11464#6164: unexpected "}" in C:\Users\diego\OneDrive\Documentos\Coderhouse\Coderhouse-20645\Clase 30\reverse-proxy-node\nginx-1.21.6/conf/nginx.conf:20
+2022/06/09 17:55:29 [emerg] 6644#3616: unexpected "}" in C:\Users\diego\OneDrive\Documentos\Coderhouse\Coderhouse-20645\Clase 30\reverse-proxy-node\nginx-1.21.6/conf/nginx.conf:20
+2022/06/09 17:56:53 [emerg] 13084#22432: unexpected "}" in C:\Users\diego\OneDrive\Documentos\Coderhouse\Coderhouse-20645\Clase 30\reverse-proxy-node\nginx-1.21.6/conf/nginx.conf:20
+2022/06/09 17:56:58 [emerg] 14068#11236: unexpected "}" in C:\Users\diego\OneDrive\Documentos\Coderhouse\Coderhouse-20645\Clase 30\reverse-proxy-node\nginx-1.21.6/conf/nginx.conf:20
+2022/06/09 17:58:22 [notice] 11804#19468: signal process started
+2022/06/09 18:08:53 [notice] 11960#14824: signal process started
+2022/06/09 18:11:45 [error] 4100#14648: *8 CreateFile() "C:\Users\diego\OneDrive\Documentos\Coderhouse\Coderhouse-20645\Clase 30\reverse-proxy-node\nginx-1.21.6/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/"
+2022/06/09 18:16:28 [notice] 12924#4876: signal process started
+2022/06/09 18:16:28 [error] 12924#4876: CreateFile() "C:\Users\diego\OneDrive\Documentos\Coderhouse\Coderhouse-20645\Clase 30\reverse-proxy-node\nginx-1.21.6/logs/nginx.pid" failed (2: The system cannot find the file specified)
